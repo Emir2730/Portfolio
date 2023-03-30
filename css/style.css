@@ -238,7 +238,10 @@ body {
 	justify-content: space-between;
 	margin-bottom: 43px;
 }
-.massengers_link {}
+.massengers_link {
+	height: 40px;
+	width: 40px;
+}
 .footer_list_massengers {
 	display: block;
 	padding-bottom: 119px;
