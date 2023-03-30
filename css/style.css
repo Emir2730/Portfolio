@@ -186,7 +186,10 @@ body {
 	justify-content: space-between;
 	margin-bottom: 110px;
 }
-.img_skills_list {}
+.img_skills_list {
+	height: 200px;
+	width: 400px;
+}
 
 .portfolio {
 	margin: 113px 0 0 0;
