@@ -92,6 +92,7 @@ body {
 	min-width:316px;
 	width: 100%;
 	height: auto;
+	margin-left: 60px;
 }
 .header_img_02 {
 	display: none;
@@ -163,6 +164,7 @@ body {
 }
 .about_title {
 	margin-top: 35px;
+	margin-left: 172px;
 }
 .text {
 	font-size: 18px;
